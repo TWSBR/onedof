@@ -1,0 +1,16 @@
+rt_nonfinite.o: C:/4022term/1DOF/finalist_ert_rtw/rt_nonfinite.c \
+ C:/4022term/1DOF/finalist_ert_rtw/rt_nonfinite.h \
+ C:/4022term/1DOF/finalist_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2021a/extern/include/tmwtypes.h \
+ C:/4022term/1DOF/finalist_ert_rtw/rtGetNaN.h \
+ C:/4022term/1DOF/finalist_ert_rtw/rtGetInf.h
+
+C:/4022term/1DOF/finalist_ert_rtw/rt_nonfinite.h:
+
+C:/4022term/1DOF/finalist_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2021a/extern/include/tmwtypes.h:
+
+C:/4022term/1DOF/finalist_ert_rtw/rtGetNaN.h:
+
+C:/4022term/1DOF/finalist_ert_rtw/rtGetInf.h:

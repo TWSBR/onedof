@@ -1,0 +1,8 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2021a/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ C:/4022term/1DOF/final_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2021a/extern/include/tmwtypes.h
+
+C:/4022term/1DOF/final_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2021a/extern/include/tmwtypes.h:

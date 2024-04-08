@@ -1,0 +1,16 @@
+rt_nonfinite.o: C:/4022term/1DOF/gyro_ert_rtw/rt_nonfinite.c \
+ C:/4022term/1DOF/gyro_ert_rtw/rtGetNaN.h \
+ C:/4022term/1DOF/gyro_ert_rtw/rt_nonfinite.h \
+ C:/4022term/1DOF/gyro_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2023a/extern/include/tmwtypes.h \
+ C:/4022term/1DOF/gyro_ert_rtw/rtGetInf.h
+
+C:/4022term/1DOF/gyro_ert_rtw/rtGetNaN.h:
+
+C:/4022term/1DOF/gyro_ert_rtw/rt_nonfinite.h:
+
+C:/4022term/1DOF/gyro_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2023a/extern/include/tmwtypes.h:
+
+C:/4022term/1DOF/gyro_ert_rtw/rtGetInf.h:
