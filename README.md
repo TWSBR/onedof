@@ -10,7 +10,8 @@ The project focuses on achieving stable flight of a 1-DoF copter by employing a 
  
    <img src="./figures/test.gif" alt="testing" width="800" />
 
-   <img src="./figures/diagram.jpg" alt="simulink" width="400" />
+   <img src="./figures/diagram.JPG" alt="simulink" width="400" />
+   
 ## Key Components
 
 - **1-DoF Copter**: A simple copter model that allows for tilt control in one direction.
