@@ -10,7 +10,7 @@ The project focuses on achieving stable flight of a 1-DoF copter by employing a 
  
    <img src="./figures/test.gif" alt="testing" width="800" />
 
-   <img src="./figures/diagram.JPG" alt="simulink" width="400" />
+   <img src="./figures/diagram.JPG" alt="simulink" width="800" />
    
 ## Key Components
 
